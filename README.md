@@ -11,4 +11,6 @@ VSCode editor
 GIT HUB
 HTML Coding Basics
 
+This file will update with specifics as I complete the project
+
 LET'S GO!
