@@ -19,7 +19,10 @@
 /* parameters for unordered lists */
 
 .lists {
-    font-size: 24px;
+    font-size: 16px;
     color: black;
-    line-height: 1.5;
+    line-height: 1.2;
 }
+
+/* parameters for ordered lists */
+
