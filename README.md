@@ -17,5 +17,5 @@ I was able to use the COMMAND line to copy all course html documents and then si
 
 I was also able to convert files from my phone and convert them to .jpg files and use them as real life images on the mock web page
 
-I started to think about formating text making things bold and such but realized when I started that maybe I should just focus on the assignment and hold off on the super detail orients. There will be time to be detail oriented later.
+I started to think about formatting text making things bold and such but realized when I started that maybe I should just focus on the assignment and hold off on the super detail orients. There will be time to be detail oriented later.
 LET'S GO!
